@@ -63,3 +63,4 @@ You can reach me at akshay.kmr4321@gmail.com or <a href="https://twitter.com/ube
 ### About me
 Hi, I'm Akshay Kumar and I am a product engineer. [Visit my website to know more](http://akshay.oorja.io/)
 
+[![Run on Repl.it](https://repl.it/badge/github/akshaykmr/oorja)](https://repl.it/github/akshaykmr/oorja)
